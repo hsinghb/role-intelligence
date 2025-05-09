@@ -136,11 +136,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Security
 
-Please report any security issues to security@yourdomain.com
-
+Please report any security issues to 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact support@yourdomain.com
+For support, please open an issue in the GitHub repository or contact 
 
 ## Acknowledgments
 
